@@ -26,7 +26,6 @@ class StatementTest {
                                                    LocalDate.of(2021,04,03),
                                                    LocalDate.of(2021,10,03)));
         statement.printStatement();
-
     }
 
 

@@ -10,6 +10,7 @@ import kata.bank.domain.repository.TransactionRepository;
 import java.math.BigDecimal;
 
 public class AccountService {
+
     private AccountRepository accountRepository;
     private TransactionRepository transactionRepository;
 
