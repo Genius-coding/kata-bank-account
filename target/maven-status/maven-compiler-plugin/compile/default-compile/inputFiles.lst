@@ -1,0 +1,12 @@
+C:\Perso\workspace\crafts_workspace\tutorials\Kata-Bank-Account\src\main\java\kata\bank\infrastructure\repository\TransactionRepositoryImpl.java
+C:\Perso\workspace\crafts_workspace\tutorials\Kata-Bank-Account\src\main\java\kata\bank\domain\exception\AccountNotExistException.java
+C:\Perso\workspace\crafts_workspace\tutorials\Kata-Bank-Account\src\main\java\kata\bank\domain\repository\AccountRepository.java
+C:\Perso\workspace\crafts_workspace\tutorials\Kata-Bank-Account\src\main\java\kata\bank\service\AccountService.java
+C:\Perso\workspace\crafts_workspace\tutorials\Kata-Bank-Account\src\main\java\kata\bank\domain\model\Transaction.java
+C:\Perso\workspace\crafts_workspace\tutorials\Kata-Bank-Account\src\main\java\kata\bank\domain\TransactionType.java
+C:\Perso\workspace\crafts_workspace\tutorials\Kata-Bank-Account\src\main\java\kata\bank\domain\model\Account.java
+C:\Perso\workspace\crafts_workspace\tutorials\Kata-Bank-Account\src\main\java\kata\bank\domain\model\Statement.java
+C:\Perso\workspace\crafts_workspace\tutorials\Kata-Bank-Account\src\main\java\kata\bank\domain\repository\TransactionRepository.java
+C:\Perso\workspace\crafts_workspace\tutorials\Kata-Bank-Account\src\main\java\kata\bank\infrastructure\repository\AccountRepositoryImpl.java
+C:\Perso\workspace\crafts_workspace\tutorials\Kata-Bank-Account\src\main\java\kata\bank\infrastructure\utils\IdGenerator.java
+C:\Perso\workspace\crafts_workspace\tutorials\Kata-Bank-Account\src\main\java\kata\bank\domain\exception\InsufficientFundsException.java

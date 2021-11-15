@@ -1,0 +1,6 @@
+kata\bank\infrastructure\repository\TransactionRepositoryImplTest.class
+kata\bank\service\AccountServiceTest.class
+kata\bank\domain\model\StatementTest.class
+kata\bank\utils\AccountProvider.class
+kata\bank\utils\TransactionProvider.class
+kata\bank\domain\model\AccountTest.class
